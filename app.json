@@ -13,14 +13,19 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "android": {
+      "package": "br.com.alexsouzasilvax.desafioglobo",
+      "permissions": [
+        "com.facebook.fresco:animated-base-support:1.3.0",
+        "com.facebook.fresco:animated-gif:2.0.0",
+        "com.facebook.fresco:animated-webp:2.1.0",
+        "com.facebook.fresco:webpsupport:2.0.0",
+        "com.facebook.fresco:webpsupport:2.0.0"
+      ]
     }
   }
 }
