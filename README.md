@@ -4,19 +4,11 @@
 
 <br>
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
   <p align="center" style="margin: 5px;">
     <img alt="print1" src="./assets/print1.jpeg" height="600px">
-  </p>
-
-  <p align="center" style="margin: 5px;">
     <img alt="print2" src="./assets/print2.jpeg" height="600px">
-  </p>
-
-  <p align="center" style="margin: 5px;">
     <img alt="print3" src="./assets/print3.jpeg" height="600px">
   </p>
-</div>
 
 <br>
 
